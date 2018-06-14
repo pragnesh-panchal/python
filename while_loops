@@ -1,0 +1,22 @@
+print("While loops practice execution")
+count = int(input("Enter a number"))
+
+if count > 20:
+    print "Number is greater than the number stored in the script"
+    print "Good Bye"
+else:
+    while(count < 20):
+      print("Script running this many times ", count)
+      count = count + 1
+      
+Expected output:
+
+While loops practice execution
+Enter a number('Script running this many times 12
+Script running this many times 13
+Script running this many times 14
+Script running this many times 15
+Script running this many times 16
+Script running this many times 17
+Script running this many times 18
+Script running this many times 19
