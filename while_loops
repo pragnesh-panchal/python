@@ -1,3 +1,11 @@
+Format for while loop:
+
+======================================
+while condition :
+       <block of repeating code>
+======================================
+
+
 print("While loops practice execution")
 count = int(input("Enter a number"))
 
