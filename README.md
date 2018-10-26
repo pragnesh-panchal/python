@@ -1,2 +1,1 @@
-# python
-Python Coding
+Python programming for ethical hacking
